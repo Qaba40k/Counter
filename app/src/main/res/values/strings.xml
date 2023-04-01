@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="button_name">Жмии!!</string>
+    <string name="counter">Кол-во нажатий:</string>
+</resources>
